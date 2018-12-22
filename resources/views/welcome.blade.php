@@ -7,7 +7,7 @@
         </div>
 
         <div class="links">
-            <a href="https://laravel.com/docs/homestead">Homestead</a>
+            <a href="/socket-wrench">Dashboard</a>
             <a href="https://docs.beyondco.de/laravel-websockets">Documentation</a>
             <a href="https://github.com/beyondcode/laravel-websockets/">
                 GitHub beyondcode/laravel-websockets
